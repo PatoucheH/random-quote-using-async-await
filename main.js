@@ -13,7 +13,7 @@ ageAuthorDiv.classList.add("age-author");
 container.appendChild(ageAuthorDiv);
 
 function display(text, div) {
-  div.textContent = text;
+  div.innerHTML = text;
 }
 
 async function quote() {
