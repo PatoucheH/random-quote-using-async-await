@@ -6,18 +6,18 @@
 
 ## How it works
 
-This is a site make in HTML / CSS to the really basic visual (I'm software not graphist or web dev sorry !! 😔).
+This is a simple site built with HTML and CSS for a basic visual design (I'm a software developer, not a graphic designer or web developer sorry! 😔).
 
-To generate the quote, I used Javascript to ask random quote to the API of the site [Visit their site](https://thatsthespir.it).
+To generate the quote, I used Javascript to fetch random quote from [That's the spirit](https://thatsthespir.it) API.
 
-The background image comes from [Unsplash](https://unsplash.com/fr) and is credited tp Sebastien Gabriel.
+The background image comes from [Unsplash](https://unsplash.com/fr) and is credited to Sebastien Gabriel.
 
-I also used an [API](https://agify.io) to generate the potential age linked to the name of the authors of the quote.
+I also used the [Agify API](https://agify.io) to estimate the potential age associated with the name of the quote's author.
 
+## Where do you can test it ?
 
-## Where do you can test it ? 
+I'm sure you'd love to test it or discover some quote ! 
+Just click on this [link](https://patoucheh.github.io/random-quote-using-async-await/) to check it out
+Feel free to judge me, suggest improvements or report any bugs that need fixing.
 
-I'm sure you want to test it or see some quote so just click on this [link](https://patoucheh.github.io/random-quote-using-async-await/) and juge me or suggest me improvements or bugs which need to be fixed. 
-
-
-### Thank you to reading this README !!! 
+### Thank you to reading this README !!!
